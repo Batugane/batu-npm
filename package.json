@@ -1,6 +1,6 @@
 {
   "name": "batu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Batuhan Duras",
   "main": "index.mjs",
   "bin": {
